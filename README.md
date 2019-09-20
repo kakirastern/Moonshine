@@ -1,3 +1,3 @@
 # Moonshine
 
-For experimentation with crytocurrency. 
+A project to experiment some physis ideas in blockchain and cryptocurrency. 
